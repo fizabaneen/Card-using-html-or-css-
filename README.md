@@ -1,14 +1,14 @@
 # Responsive Card Using HTML & CSS 🎴
 
-A simple and responsive card design created using **HTML and CSS**. This project demonstrates how to build a clean card layout that works well on different screen sizes.
+A simple and fully responsive card design created using **HTML and CSS**. This project demonstrates how to create beautiful cards that work smoothly on different screen sizes.
 
 ## 🚀 Features
 
 * 📱 Fully Responsive Design
 * 🎨 Clean and Modern UI
+* 🖼️ Images Included from Assets Folder
 * 💻 Built with HTML & CSS
-* 🖼️ Image Card Layout
-* ✨ Simple and Beginner Friendly
+* ✨ Beginner-Friendly Project
 
 ## 🛠️ Technologies Used
 
@@ -22,19 +22,18 @@ responsive-card/
 │
 ├── index.html
 ├── style.css
-└── README.md
+├── README.md
+│
+└── assets/
+    └── images/
+        ├── image1.jpg
+        ├── image2.jpg
+        └── image3.jpg
 ```
 
-## 📸 Preview
+## 🖼️ Images
 
-The project contains a responsive card with:
-
-* An image
-* A title
-* A description
-* A button
-
-The card automatically adjusts according to different screen sizes.
+All images used in this project are stored in the **Assets folder** and are used inside the responsive cards.
 
 ## 💡 What I Learned
 
@@ -42,28 +41,30 @@ Through this project, I practiced:
 
 * HTML structure
 * CSS styling
-* Flexbox
 * Responsive design
+* Flexbox
 * Media queries
-* Card layouts
+* Creating responsive cards
+* Using images from an Assets folder
 
 ## 🖥️ How to Use
 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/responsive-card.git
+git clone https://github.com/fizabaneen/responsive-card.git
 ```
 
 2. Open the project folder.
 
-3. Run the `index.html` file in your browser.
+3. Make sure the **assets folder** remains in the project directory.
+
+4. Open `index.html` in your browser.
 
 ## 👩‍💻 Author
 
 **Fiza Baneen**
 
-🌐 Portfolio: fizabaneen.com
 💻 GitHub: github.com/fizabaneen
 
 ---
