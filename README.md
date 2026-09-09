@@ -1,6 +1,6 @@
 # Responsive Card Using HTML & CSS 🎴
 
-A simple responsive card layout built with **HTML, CSS, and Bootstrap**. The project includes image cards, author details, category badges, hover effects, and a responsive grid for different screen sizes.
+A simple responsive card layout built with **HTML and CSS**. The project includes image cards, author details, category badges, hover effects, and a responsive flexbox layout for different screen sizes.
 
 ## 🚀 Features
 
@@ -8,14 +8,12 @@ A simple responsive card layout built with **HTML, CSS, and Bootstrap**. The pro
 * 🎨 Clean and Modern UI
 * 🖼️ Images Included from Assets Folder
 * 💻 Built with HTML & CSS
-* 🧩 Bootstrap responsive grid
 * ✨ Beginner-Friendly Project
 
 ## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
-* Bootstrap 5.3.3
 
 ## 📂 Project Structure
 
@@ -45,7 +43,7 @@ Through this project, I practiced:
 * CSS styling
 * Responsive design
 * Flexbox
-* Responsive Bootstrap grid
+* Responsive Flexbox layout
 * Creating responsive cards
 * Using images from an Assets folder
 
