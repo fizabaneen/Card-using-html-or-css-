@@ -5,3 +5,36 @@ body {
     font-family: sans-serif;
 }
 
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    gap: 30px;
+    text-align: center;
+}
+
+.cardPic{
+    width: 400px;
+    height: 230px;
+    border-radius: 20px;
+}
+.circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border: none;
+    margin-left: 50px;
+    margin-top: 10px;
+ background-image:linear-gradient(to right ,#6864f1 , #855cfc) ;
+ color: white;
+ border-radius: 20px;
+ font-size: 16px;
+}
