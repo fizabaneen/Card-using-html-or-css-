@@ -1,6 +1,6 @@
 # Responsive Card Using HTML & CSS 🎴
 
-A simple and fully responsive card design created using **HTML and CSS**. This project demonstrates how to create beautiful cards that work smoothly on different screen sizes.
+A simple responsive card layout built with **HTML, CSS, and Bootstrap**. The project includes image cards, author details, category badges, hover effects, and a responsive grid for different screen sizes.
 
 ## 🚀 Features
 
@@ -8,27 +8,29 @@ A simple and fully responsive card design created using **HTML and CSS**. This p
 * 🎨 Clean and Modern UI
 * 🖼️ Images Included from Assets Folder
 * 💻 Built with HTML & CSS
+* 🧩 Bootstrap responsive grid
 * ✨ Beginner-Friendly Project
 
 ## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
+* Bootstrap 5.3.3
 
 ## 📂 Project Structure
 
 ```text
-responsive-card/
+Card-using-html-or-css-/
 │
 ├── index.html
 ├── style.css
 ├── README.md
 │
-└── assets/
-    └── images/
-        ├── image1.jpg
-        ├── image2.jpg
-        └── image3.jpg
+└── Assets/
+    ├── Ul Ux.avif
+    ├── video editing.avif
+    ├── full-stack .webp
+    └── author images
 ```
 
 ## 🖼️ Images
@@ -43,7 +45,7 @@ Through this project, I practiced:
 * CSS styling
 * Responsive design
 * Flexbox
-* Media queries
+* Responsive Bootstrap grid
 * Creating responsive cards
 * Using images from an Assets folder
 
@@ -52,12 +54,12 @@ Through this project, I practiced:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/fizabaneen/responsive-card.git
+    git clone https://github.com/fizabaneen/Card-using-html-or-css-.git
 ```
 
 2. Open the project folder.
 
-3. Make sure the **assets folder** remains in the project directory.
+3. Make sure the **Assets** folder remains in the project directory.
 
 4. Open `index.html` in your browser.
 
@@ -65,7 +67,10 @@ git clone https://github.com/fizabaneen/responsive-card.git
 
 **Fiza Baneen**
 
-💻 GitHub: github.com/fizabaneen
+* GitHub: [github.com/fizabaneen](https://github.com/fizabaneen)
+* Repository: [Card-using-html-or-css-](https://github.com/fizabaneen/Card-using-html-or-css-)
+* LinkedIn: [linkedin.com/in/fizabaneen](https://www.linkedin.com/in/fizabaneen/)
+* X: [x.com/fizabaneen](https://x.com/fizabaneen)
 
 ---
 
